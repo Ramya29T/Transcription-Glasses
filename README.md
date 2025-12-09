@@ -7,7 +7,7 @@ The Speech to text - Transcription Glass converts human speech to text to help p
 **HARDWARE:** • Raspberry Pi Zero • OLED Display • External microphone • Powerbank module • Magnifying glass • Mirror • Transparent glass • 3d printed glass structure
 
 **Demo Video:**
-https://github.com/user-attachments/assets/169bb5a8-b93a-426b-9458-abdb5ed36f8f
+https://github.com/user-attachments/assets/513e9d5c-616e-4356-b8fe-75726492eb1c
 
 **Architecture:**
 ![steps](https://github.com/user-attachments/assets/852f028d-417f-4ac3-a8a7-fe4a5676215a)
